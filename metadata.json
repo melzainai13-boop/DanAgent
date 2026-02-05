@@ -1,0 +1,7 @@
+{
+  "name": "Dan Company Smart Assistant",
+  "description": "A smart voice customer service assistant for Dan Company, featuring a Sudanese Arabic voice agent and a comprehensive admin dashboard for order management and agent configuration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
